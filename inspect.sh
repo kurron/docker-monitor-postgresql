@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker inspect mysql-service 
+docker inspect postgresql-service 
